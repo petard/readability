@@ -1,3 +1,9 @@
+# Changes in this fork
+
+* Set user-agent to Safari on Apple iPhone
+* Limit redirects to 5 to avoid too many redirects error
+* Handle gzipped content properly by throwing error
+
 # Readability
 
 Turn any web page into a clean view. This module is based on arc90's readability project.
